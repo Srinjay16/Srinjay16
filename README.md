@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there!<br>👋 I'm Srinjay, an ECE student at Jadavpur University, fueled by a love for all things Computer Vision and VLSI.<br>🌱 Currently building some cool projects and exploring the fascinating intersections of these fields.<br>🔭I'm also passionate and possess deep curiosity for the vast expanse of Astrophysics!<br><br>⚡️Let's connect and innovate together!<br>* LinkedIn: [linkedin.com/in/srinjay-paul-054bb8281]<br>* Instagram: [instagram.com/far_fetched_16]
+Hey there!<br>👋 I'm Srinjay Paul, an ECE student at Jadavpur University, fueled by a love for all things Computer Vision and VLSI.<br>🌱 Currently building some cool projects and exploring the fascinating intersections of these fields.<br>🔭I'm also passionate and possess deep curiosity for the vast expanse of Astrophysics!<br><br>⚡️Let's connect and innovate together!<br>* LinkedIn: [linkedin.com/in/srinjay-paul-054bb8281]<br>* Instagram: [instagram.com/far_fetched_16]
 
 
 ## 🌐 Socials:
