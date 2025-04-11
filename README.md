@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there!<br>👋 I'm Srinjay Paul, an ETCE student at Jadavpur University, fueled by a love for all things Computer Vision and VLSI.<br>🌱 Currently building some cool projects and exploring the fascinating intersections of these fields.<br>🔭I'm also passionate and possess deep curiosity for the vast expanse of Astrophysics!<br><br>⚡️Let's connect and innovate together!
+Hey there!<br>👋 I'm Srinjay Paul, an ETCE student at Jadavpur University, fueled by a love for Computer Vision and VLSI.<br>🌱 Currently building some cool projects and exploring the fascinating intersections of these fields.<br>🔭I'm also passionate and possess deep curiosity for the vast expanse of Astrophysics!<br><br>⚡️Let's connect and innovate together!
 
 
 ## 🌐 Socials:
