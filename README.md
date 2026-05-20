@@ -37,16 +37,18 @@ Hey there! 👋 I'm Srinjay Paul, a third-year undergraduate student (Class of 2
   <a href="https://github.com/Srinjay16">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinjay16&theme=react-dark&hide_border=false" width="100%" alt="Srinjay's Activity Graph" />
   </a>
-  
-  <br/>
+</div>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Srinjay16&theme=react-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="195" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjay16&theme=react-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages"/>
-  </p>
+<br/>
 
-  <br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srinjay16&theme=react-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjay16&theme=react-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages" />
+</div>
 
+<br/>
+
+<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Srinjay16&theme=react-dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
