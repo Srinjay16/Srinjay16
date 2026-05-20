@@ -49,18 +49,8 @@ Hey there! 👋 I'm Srinjay Paul, a third-year undergraduate student (Class of 2
 
 <br/>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Srinjay16&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Srinjay16&icon=0&color=0" alt="Profile Views" />
-  </a>
 </p>
