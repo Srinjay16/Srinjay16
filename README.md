@@ -33,33 +33,34 @@ Hey there! 👋 I'm Srinjay Paul, a third-year undergraduate student (Class of 2
 
 ## 📊 GitHub Stats & Activity:
 
-<div align="center">
-  <a href="https://github.com/Srinjay16">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srinjay16&theme=react-dark&hide_border=false" width="100%" alt="Srinjay's Activity Graph" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srinjay16&theme=github_dark" alt="Srinjay's 1-Year Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srinjay16&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srinjay16&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srinjay16&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srinjay16&theme=github_dark" alt="Top Languages by Commit" />
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srinjay16&theme=react-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinjay16&theme=react-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Srinjay16&theme=react-dark&hide_border=false" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Srinjay16&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ### ✍️ Random Dev Quote
-<div align="center">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+</p>
 
 ---
-<div align="center">
+<p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Srinjay16&icon=0&color=0" alt="Profile Views" />
   </a>
-</div>
+</p>
