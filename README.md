@@ -11,7 +11,7 @@ Hey there! 👋 I'm Srinjay Paul, a third-year undergraduate student (Class of 2
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/far_fetched_16/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinjay-paul-054bb8281/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PaulSrinjay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srinjaypaul2222@gmail.com) 
 
 ## 🚀 Featured Projects:
-* **FPGA-based Fibonacci Sequence Generator:** Implemented a 10Hz decimal output Fibonacci generator on a Basys3 board utilizing Bluespec SystemVerilog.
+* **FPGA-based Stochastic Edge Detector:** Implemented a real-time hardware accelerated Edge Detector on a Basys3 board utilizing Bluespec SystemVerilog.
 * **AI-Driven Crop Disease & Weed Detection Rover:** Developed an autonomous agricultural rover using Raspberry Pi that secured 2nd place in an inter-college competition.
 * **FALLSAFE Project:** Engineered a smart safety belt and paired application designed for elderly fall prevention for the Smart India Hackathon.
 
